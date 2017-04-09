@@ -1,0 +1,1 @@
+sudo python juniper-vpn.py --host 222.66.109.15 --username 1254257 --stdin DSID=%DSID% openconnect --juniper %HOST% --cookie-on-stdin --servercert sha256:e96715ccbdc64db3a6a6676afc1d3069d244b4dacaa0c9ad2ece88614bb59b15
