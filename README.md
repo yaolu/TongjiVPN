@@ -1,13 +1,15 @@
 # TongjiVPN
-Script for running juniper vpn in command line
+Script for running juniper vpn in command line. This script requires sudo privilege for creating tunnel
+
 
 ## Usage
 Replace username and host address with your own in the vpn.sh script
-This script requires sudo privilege for creating tunnel
+Then run the following command
+
 ```bash
 bash vpn.sh
-
 ```
+
 or
 ```bash
 sudo python juniper-vpn.py --host VPN_Server
